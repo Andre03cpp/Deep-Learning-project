@@ -253,7 +253,7 @@ if ckpt_manager.latest_checkpoint:
 
 
 
-EPOCHS = 40
+EPOCHS = 200
 
 
 
