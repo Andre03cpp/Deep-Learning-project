@@ -24,6 +24,9 @@ from IPython.display import clear_output
 AUTOTUNE = tf.data.AUTOTUNE
 
 
+
+
+
 # 2. Caricamento del dataset
 
 # tfds.load() carica il dataset, e i dati vengono suddivisi in insiemi di addestramento (trainA, trainB) 
